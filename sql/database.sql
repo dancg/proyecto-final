@@ -1,4 +1,7 @@
+DROP DATABASE IF EXISTS lamp_db;
 CREATE DATABASE IF NOT EXISTS lamp_db DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE lamp_db;
+
 
 USE lamp_db;
 
