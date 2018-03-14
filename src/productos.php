@@ -18,7 +18,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM producto JOIN fabricante ON (prod
 
 	<tr bgcolor='#CCCCCC'>
 		<td>Código Producto</td>
-		<td>Nombre Fabriicante</td>
+		<td>Nombre Fabricante</td>
         <td>Código Fabricante</td>
         <td>Producto</td>
         <td>Precio(€)</td>
